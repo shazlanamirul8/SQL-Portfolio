@@ -15,3 +15,8 @@ Link: [SQL_Amazon_Sales](https://github.com/shazlanamirul8/Amazon_sales)
 For this portfolio, I used the HR Analytics: Employee Attrition & Performance dataset from Kaggle to demonstrate my capability in writing intermediate SQL queries and performing basic advanced analysis. The project focuses on analyzing employee data, performance ratings, and attrition trends to derive actionable insights
 
 Link: [HR_Analytics](https://github.com/shazlanamirul8/HR-Analytics-Employee-Attrition-Performance-SQL-)
+
+# 4. Airlines Booking
+This project demonstrate advanced queries such as CASE, subquery, aggregation + having, and rank and window function.
+
+Link: [Airline_Booking](https://github.com/shazlanamirul8/airlines_booking_sql)
