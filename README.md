@@ -14,6 +14,13 @@ across companies, industries and countries.
 
 Link: [Global_Layoffs_Analysis](https://github.com/shazlanamirul8/World_Layoffs_Dataset)
 
+### 2. Invistico Airline Analysis
+Using MySQL to analyze Invistico Airline passenger satisfaction data to find out 
+what makes passengers satisfied or dissatisfied, covering service ratings, customer 
+types and flight classes.
+
+Link: [Invistico_Airline_Analysis](https://github.com/shazlanamirul8/Invistico_Airline)
+
 ---
 
 ## Other Projects
