@@ -21,6 +21,14 @@ types and flight classes.
 
 Link: [Invistico_Airline_Analysis](https://github.com/shazlanamirul8/Invistico_Airline)
 
+### 3. Brazillian e-Commerce (Olist)
+Using MySQL to analyze Olist, a Brazilian e-commerce platform, to understand sales performance, 
+customer behavior, seller performance and delivery trends across 8 interconnected tables using 
+JOINs, CTEs and window functions.
+
+Link: [Brazillian e-Commerce (Olist)](https://github.com/shazlanamirul8/brazillian-e-commerce-olist-)
+
+
 ---
 
 ## Other Projects
